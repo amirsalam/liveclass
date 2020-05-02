@@ -46,6 +46,7 @@ body{
     position: relative;
     bottom: 26rem;
     left:-4rem;
+    width:28rem;
 }
 #live-class{
 position: relative;
@@ -150,4 +151,45 @@ border-radius: 3rem;
 #marging{
     margin-left: 5rem;
 }
+@media (max-width: 575px) { 
+    #img-class{
+    width: 18rem;
+    position: relative;
+    top: -1rem;
+ }
+ .container-etude{
+    background: #3F88F6;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    width: 25rem;
 
+}
+.padding-class{
+    color: #fff;
+    position: relative;
+    left:0;
+    margin-bottom: 2rem;
+}
+#caree-compte{
+    position: relative;
+    top: 5rem;
+    left: 8rem;
+    border-radius: 3rem;
+    
+    }
+    #caree-class{
+        position: relative;
+        left:8rem;
+        top: 7rem;
+        border-radius: 3rem;
+        width: auto;
+    
+    }
+    #caree-cours{
+        position: relative;
+        left:8rem;
+        bottom: -9rem;
+        border-radius: 3rem;
+    
+    }
+}

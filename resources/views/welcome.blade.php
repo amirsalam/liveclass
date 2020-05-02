@@ -48,7 +48,7 @@
         <section>
             <h1 id="live-class">Live<br>Classes</h1>
             <p id="para-class">Cours de soutien scolaire 100% marocain Sans déplacement<br> ni frais supplémentaire Accéder depuis n'importe où vous êtes<br> Paiement sécurisé et sans engagementApprendre par des<br> professeurs expérimentés</p>
-            <img src="imag/class.png"  alt="class" id="img-class">
+            <img src="imag/class.png"  alt="class"  id="img-class">
             <div id="marging">
               <a type="button" class="btn btn-light border-btn" href="{{ route('login') }}">SE CONNECTER</a>
               <a type="button"  class="btn btn-light border-btn" href="{{ route('register') }}">S'INSCRIRE</a>
