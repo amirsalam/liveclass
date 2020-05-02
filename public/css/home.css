@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    
+}
+#logo-margin{
+    margin-right: 5rem;
+}
+.border-btn{
+    color: #000;
+    border:2px solid  #3F88F6;
+    border-radius:15px;
+    
+    margin-right: 15px;
+    padding: 10px;
+}
+.rounded-circle{
+    border-radius:50% !important;
+}
+.card-icon{
+    display:inline-block;
+    float: left;
+}
+.img-fluid{
+    width:200px;
+}
+.row{
+    margin-right: 97px;
+    margin-bottom: 10rem;
+}
+}
+.card-description{
+    text-align: center;
+    border:2px solid  #3F88F6;
+    border-radius:15px;
+    margin-top: 5rem;
+
+    
+    margin-right: 15px;
+    padding: 10px;
+}
+#img-class{
+    display:inline-block;
+    float: right;
+    position: relative;
+    bottom: 26rem;
+    left:-4rem;
+}
+#live-class{
+position: relative;
+left: 5rem;
+top: 7.29%;
+bottom: 88%;
+margin-top: 200px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 107px;
+line-height: 107px;
+
+color: #000000;
+
+}
+#para-class{
+position: relative;
+left: 5rem;
+top: 16.09%;
+bottom: 83.09%;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 29px;
+
+color: #707070;
+}
+.btn-light:hover{
+    background: #3F88F6;
+    color: #fff;
+    
+
+}
+
+.container-etude{
+    background: #3F88F6;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    
+}
+.padding-class{
+    color: #fff;
+    position: relative;
+    left:9rem;
+    margin-bottom: 2rem;
+}
+.padding-comment{
+    color: #000;
+    
+}
+.container{
+    margin-top: 5rem;
+}
+.fa-video-camera , .fa-gg-circle , .fa-microchip,.fa-users{
+    color: #fff;
+    font-size: 2rem;
+}
+.jumbotron{
+    background: #3F88F6;
+    padding:0; 
+    margin-bottom:0; 
+    border-radius:0;
+
+}
+.white>h3,.white>p{
+    color: #fff;
+}
+.padding-comment,h3,p{
+    color: #000;
+}
+#caree-compte{
+position: relative;
+top: 5rem;
+left: 18rem;
+border-radius: 3rem;
+
+}
+#caree-class{
+    position: relative;
+    left:24rem;
+    top: 2rem;
+    border-radius: 3rem;
+
+}
+#caree-cours{
+    position: relative;
+    left:30rem;
+    bottom: -4rem;
+    border-radius: 3rem;
+
+}
+.card-body{
+    font-size:12px;
+}
+.fa-cog,.fa-book{
+    font-size: 3rem;
+}
+#marging{
+    margin-left: 5rem;
+}
+
